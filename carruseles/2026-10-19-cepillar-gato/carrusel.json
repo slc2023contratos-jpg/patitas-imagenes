@@ -1,0 +1,34 @@
+{
+  "portada": {
+    "etiqueta": "Gatos",
+    "titulo": "Cómo cepillar a tu gato sin que salga corriendo",
+    "subtitulo": "Menos pelos en casa y menos bolas de pelo"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Elige el momento",
+      "texto": "Cepíllalo cuando esté relajado, por ejemplo después de comer o de una siesta. Nunca cuando esté jugando o alterado."
+    },
+    {
+      "numero": "2",
+      "titulo": "Sesiones cortas",
+      "texto": "Empieza con 1 o 2 minutos. Detente antes de que se moleste para que lo recuerde como algo agradable."
+    },
+    {
+      "numero": "3",
+      "titulo": "A favor del pelo",
+      "texto": "Empieza por lomo y mejillas, que suelen gustarles. Deja panza y patas para cuando ya tenga confianza."
+    },
+    {
+      "numero": "4",
+      "titulo": "Premia siempre",
+      "texto": "Un premio o una caricia al final. Si hay nudos muy pegados o heridas, consulta a tu veterinario."
+    }
+  ],
+  "cierre": {
+    "titulo": "¿Quieres aprender más?",
+    "texto": "Baño, corte de uñas y cuidado del pelo de tu gato en casa.",
+    "llamado": "Curso de peluquería para gatos: link en mi perfil"
+  }
+}

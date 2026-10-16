@@ -1,0 +1,34 @@
+{
+  "portada": {
+    "etiqueta": "Gatos",
+    "titulo": "¿Tu gato araña los muebles? No es por portarse mal",
+    "subtitulo": "Qué hacer en vez de regañarlo"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Arañar es natural",
+      "texto": "Así cuidan sus uñas, se estiran y marcan su territorio con el olor de sus patas. No se le puede quitar, se le redirige."
+    },
+    {
+      "numero": "2",
+      "titulo": "Dale un rascador",
+      "texto": "Ponlo junto al mueble que araña. Que sea firme y tan alto que pueda estirarse por completo."
+    },
+    {
+      "numero": "3",
+      "titulo": "Hazlo atractivo",
+      "texto": "Juega cerca del rascador con una varita o frótale un poco de hierba gatera. Prémialo cuando lo use."
+    },
+    {
+      "numero": "4",
+      "titulo": "Nunca lo castigues",
+      "texto": "Gritos o golpes le generan miedo y estrés. Mejor cubre el mueble mientras aprende."
+    }
+  ],
+  "cierre": {
+    "titulo": "Guarda este post",
+    "texto": "Y compártelo con alguien cuyo gato tenga el sofá destruido.",
+    "llamado": "Más tips para tu peludo: sígueme en @patitasencasa2"
+  }
+}

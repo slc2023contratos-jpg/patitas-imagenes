@@ -5,11 +5,31 @@
     "subtitulo": "Guarda este post y compártelo con quien tenga un peludo"
   },
   "laminas": [
-    {"numero": "1", "titulo": "Chocolate", "texto": "Tiene teobromina, que los perros no eliminan bien. Mientras más oscuro, más peligroso: puede causar vómito, temblores y problemas del corazón."},
-    {"numero": "2", "titulo": "Uvas y pasas", "texto": "Incluso pocas pueden dañar los riñones de algunos perros. No hay una cantidad segura conocida: mejor nunca."},
-    {"numero": "3", "titulo": "Cebolla y ajo", "texto": "Crudos, cocidos o en polvo dañan los glóbulos rojos. Ojo con las sobras de comida y los caldos."},
-    {"numero": "4", "titulo": "Xilitol", "texto": "Es el endulzante de chicles y dulces sin azúcar. En perros baja el azúcar en sangre muy rápido y puede afectar el hígado."},
-    {"numero": "5", "titulo": "Huesos cocidos", "texto": "Al cocinarse se vuelven frágiles y se astillan. Pueden atorarse o lastimar la boca y el intestino."}
+    {
+      "numero": "1",
+      "titulo": "Chocolate",
+      "texto": "Tiene teobromina, que los perros no eliminan bien. Mientras más oscuro, más peligroso: puede causar vómito, temblores y problemas del corazón."
+    },
+    {
+      "numero": "2",
+      "titulo": "Uvas y pasas",
+      "texto": "Incluso pocas pueden dañar los riñones de algunos perros. No hay una cantidad segura conocida: mejor nunca."
+    },
+    {
+      "numero": "3",
+      "titulo": "Cebolla y ajo",
+      "texto": "Crudos, cocidos o en polvo dañan los glóbulos rojos. Ojo con las sobras de comida y los caldos."
+    },
+    {
+      "numero": "4",
+      "titulo": "Xilitol",
+      "texto": "Es el endulzante de chicles y dulces sin azúcar. En perros baja el azúcar en sangre muy rápido y puede afectar el hígado."
+    },
+    {
+      "numero": "5",
+      "titulo": "Huesos cocidos",
+      "texto": "Al cocinarse se vuelven frágiles y se astillan. Pueden atorarse o lastimar la boca y el intestino."
+    }
   ],
   "cierre": {
     "titulo": "¿Tu perro comió algo de esto?",

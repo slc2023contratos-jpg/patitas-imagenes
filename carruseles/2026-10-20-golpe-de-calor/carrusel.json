@@ -1,0 +1,39 @@
+{
+  "portada": {
+    "etiqueta": "Perros",
+    "titulo": "Golpe de calor: las señales que no debes ignorar",
+    "subtitulo": "Clave en días de calor"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Jadeo excesivo",
+      "texto": "Respira muy rápido, con la lengua afuera y muy roja, y no se calma al descansar."
+    },
+    {
+      "numero": "2",
+      "titulo": "Babeo y debilidad",
+      "texto": "Saliva espesa, tambaleo, cansancio fuera de lo normal o se echa y no quiere levantarse."
+    },
+    {
+      "numero": "3",
+      "titulo": "Vómito o diarrea",
+      "texto": "En casos graves puede vomitar, tener diarrea o encías muy rojas o pálidas."
+    },
+    {
+      "numero": "4",
+      "titulo": "Qué hacer ya",
+      "texto": "Llévalo a la sombra, ofrécele agua fresca y mójale el cuerpo con agua fresca, no helada. Y llama al veterinario de inmediato."
+    },
+    {
+      "numero": "5",
+      "titulo": "Cómo prevenirlo",
+      "texto": "Nunca lo dejes en el carro. Pasea temprano o al final de la tarde y siempre lleva agua."
+    }
+  ],
+  "cierre": {
+    "titulo": "Saber reaccionar salva vidas",
+    "texto": "Golpes, heridas, atragantamiento y más emergencias de perros.",
+    "llamado": "Curso de primeros auxilios para perros: link en mi perfil"
+  }
+}

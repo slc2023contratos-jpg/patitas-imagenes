@@ -1,0 +1,39 @@
+{
+  "portada": {
+    "etiqueta": "Perros",
+    "titulo": "5 errores al bañar a tu perro en casa",
+    "subtitulo": "El número 3 lo comete casi todo el mundo"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Usar tu champú",
+      "texto": "La piel del perro es distinta a la nuestra. Usa champú especial para perros."
+    },
+    {
+      "numero": "2",
+      "titulo": "Agua muy caliente",
+      "texto": "Debe estar tibia. Pruébala en tu muñeca, como con un bebé."
+    },
+    {
+      "numero": "3",
+      "titulo": "Bañarlo muy seguido",
+      "texto": "Bañarlo de más le reseca la piel. Muchos perros están bien con un baño al mes; tu veterinario te dice lo ideal."
+    },
+    {
+      "numero": "4",
+      "titulo": "No enjuagar bien",
+      "texto": "Los restos de champú causan picazón. Enjuaga hasta que el agua salga limpia."
+    },
+    {
+      "numero": "5",
+      "titulo": "Dejarlo húmedo",
+      "texto": "Sécalo bien, sobre todo en orejas y pliegues, para evitar hongos y malos olores."
+    }
+  ],
+  "cierre": {
+    "titulo": "¿Quieres bañarlo como un profesional?",
+    "texto": "Baño, secado, corte y cuidado del pelo paso a paso.",
+    "llamado": "Curso de peluquería para perros: link en mi perfil"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "portada": {
+    "etiqueta": "Perros",
+    "titulo": "3 premios caseros y seguros para tu perro",
+    "subtitulo": "Con ingredientes que ya tienes en casa"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Zanahoria",
+      "texto": "Cruda en palitos o cocida en rodajas. Crujiente, baja en calorías y a la mayoría les encanta."
+    },
+    {
+      "numero": "2",
+      "titulo": "Manzana sin semillas",
+      "texto": "En trocitos y sin corazón ni semillas. Un premio dulce y fresco."
+    },
+    {
+      "numero": "3",
+      "titulo": "Pollo cocido",
+      "texto": "Sin sal, sin piel, sin huesos y sin condimentos. Ideal en pedacitos para el entrenamiento."
+    },
+    {
+      "numero": "4",
+      "titulo": "Con moderación",
+      "texto": "Los premios no deben superar el 10% de lo que come al día. Si tiene alguna enfermedad, pregunta antes a tu veterinario."
+    }
+  ],
+  "cierre": {
+    "titulo": "¿Quieres más recetas?",
+    "texto": "Más de 450 recetas caseras para perros y gatos.",
+    "llamado": "Ebook de recetas saludables: link en mi perfil"
+  }
+}

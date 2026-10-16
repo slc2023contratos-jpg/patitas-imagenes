@@ -1,0 +1,44 @@
+{
+  "portada": {
+    "etiqueta": "Gatos",
+    "titulo": "6 señales de que tu gato está estresado",
+    "subtitulo": "Los gatos esconden lo que sienten"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Se esconde mucho",
+      "texto": "Pasa más tiempo debajo de la cama o en lugares altos y evita a la familia."
+    },
+    {
+      "numero": "2",
+      "titulo": "Fuera de la arena",
+      "texto": "Orina o hace sus necesidades fuera del arenero. Primero descarta un problema de salud con el veterinario."
+    },
+    {
+      "numero": "3",
+      "titulo": "Se lame de más",
+      "texto": "Se acicala tanto que aparecen zonas sin pelo."
+    },
+    {
+      "numero": "4",
+      "titulo": "Cambios al comer",
+      "texto": "Come mucho menos o mucho más de lo normal."
+    },
+    {
+      "numero": "5",
+      "titulo": "Más agresivo",
+      "texto": "Bufa, araña o muerde sin razón aparente."
+    },
+    {
+      "numero": "6",
+      "titulo": "Qué ayuda",
+      "texto": "Rutinas fijas, un lugar tranquilo solo para él, juego diario y cambios en casa de a poco."
+    }
+  ],
+  "cierre": {
+    "titulo": "Ante cualquier cambio, veterinario",
+    "texto": "Muchos síntomas de estrés también pueden ser de una enfermedad.",
+    "llamado": "Más tips para tu peludo: sígueme en @patitasencasa2"
+  }
+}

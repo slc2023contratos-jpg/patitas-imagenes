@@ -1,4 +1,4 @@
-"""Genera las láminas de un carrusel de Patitas en Casa (1080x1920, PNG).
+"""Genera las láminas de un carrusel de Patitas en Casa (1080x1920, JPG: TikTok no acepta PNG).
 
 Uso:
     python3 generar_carrusel.py carrusel.json carpeta_salida
@@ -146,8 +146,8 @@ def main():
     imagenes.append(cierre(datos["cierre"]))
     rutas = []
     for i, im in enumerate(imagenes, 1):
-        ruta = os.path.join(salida, f"{i:02d}.png")
-        im.save(ruta, optimize=True)
+        ruta = os.path.join(salida, f"{i:02d}.jpg")
+        im.save(ruta, "JPEG", quality=92, optimize=True)
         rutas.append(ruta)
     print("\n".join(rutas))
 

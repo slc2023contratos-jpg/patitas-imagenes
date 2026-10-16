@@ -1,0 +1,34 @@
+{
+  "portada": {
+    "etiqueta": "Perros",
+    "titulo": "¿Tu perro jala la correa? 4 pasos para paseos tranquilos",
+    "subtitulo": "Practica 5 minutos al día"
+  },
+  "laminas": [
+    {
+      "numero": "1",
+      "titulo": "Cansa antes de salir",
+      "texto": "Un rato de juego en casa baja la ansiedad. Un perro con mucha energía acumulada jala más."
+    },
+    {
+      "numero": "2",
+      "titulo": "Si jala, te detienes",
+      "texto": "Quédate quieto como un árbol. Cuando la correa se afloje, sigues caminando. Así aprende que jalar no lo lleva a ningún lado."
+    },
+    {
+      "numero": "3",
+      "titulo": "Premia a tu lado",
+      "texto": "Cada vez que camine junto a ti con la correa floja, dale un premio pequeño o una caricia."
+    },
+    {
+      "numero": "4",
+      "titulo": "Paciencia y constancia",
+      "texto": "Todos en casa deben usar la misma regla. Los cambios se notan en días o semanas, no en un paseo."
+    }
+  ],
+  "cierre": {
+    "titulo": "¿Quieres un plan completo?",
+    "texto": "Paseos, obediencia y malos hábitos, paso a paso.",
+    "llamado": "Curso de adiestramiento canino: link en mi perfil"
+  }
+}
